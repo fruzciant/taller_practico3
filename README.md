@@ -2,7 +2,7 @@
 
 **Curso:** Programación Avanzada  
 **Profesor:** M.Sc. Mauro Baquero-Suárez  
-**Alumno:** Jhoel David Ospino De La Rosa, Valery Michel Ochoa Lechuga, Andrés Mauricio Amaya Hernandez
+**Estudiantes:** Jhoel David Ospino De La Rosa, Valery Michel Ochoa Lechuga, Andrés Mauricio Amaya Hernandez
 **Programa:** Ingeniería Mecatrónica  
 **Fecha de entrega:** 4 de Diciembre de 2025
 
@@ -372,4 +372,4 @@ Historial completo de la partida incluyendo cada movimiento con jugador, ficha y
 
 ---
 
-**Desarrollado para el curso de Programación Avanzada**
+Pa' la clase de Programación Avanzada.
