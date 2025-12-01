@@ -1,0 +1,39 @@
+========================================
+     LISTADO DE ESTUDIANTES
+========================================
+
+Estudiante #1
+----------------------------------------
+Nombre Completo: Luis Miguel Torres Herrera
+Año de Nacimiento: 2002
+Número de Identificación: 1005
+Promedio Académico: 4
+Email: luis.torres@universidad.edu
+
+Estudiante #2
+----------------------------------------
+Nombre Completo: Ana Sofía González Ramírez
+Año de Nacimiento: 2004
+Número de Identificación: 1004
+Promedio Académico: 4.7
+Email: ana.gonzalez@universidad.edu
+
+Estudiante #3
+----------------------------------------
+Nombre Completo: María Fernanda López Martínez
+Año de Nacimiento: 2002
+Número de Identificación: 1002
+Promedio Académico: 4.5
+Email: maria.lopez@universidad.edu
+
+Estudiante #4
+----------------------------------------
+Nombre Completo: Juan Carlos Pérez García
+Año de Nacimiento: 2003
+Número de Identificación: 1001
+Promedio Académico: 4.2
+Email: juan.perez@universidad.edu
+
+========================================
+Total de estudiantes: 4
+========================================
